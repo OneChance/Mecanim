@@ -383,7 +383,7 @@ ModelImporter:
     legTwist: .5
     armStretch: .0500000007
     legStretch: .0500000007
-    feetSpacing: 0
+    feetSpacing: .100000001
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 3
