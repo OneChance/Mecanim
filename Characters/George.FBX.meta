@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: bb54f8fc7f8141347981efe7e484e89f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Belly01
+    100002: Belly02
+    100004: Belly03
+    100006: Clavicle_L
+    100008: Clavicle_R
+    100010: Collar
+    100012: Dummy001
+    100014: Elbow_L
+    100016: Elbow_R
+    100018: Eye Right
+    100020: Eye Right 1
+    100022: Eyes
+    100024: Foot_L
+    100026: Foot_R
+    100028: Foot_Tip_L
+    100030: Foot_Tip_R
+    100032: //RootNode
+    100034: Head
+    100036: Head 1
+    100038: Hip_L
+    100040: Hip_R
+    100042: ikHandle_LAnkle
+    100044: ikHandle_LFoot
+    100046: ikHandle_RAnkle
+    100048: ikHandle_RFoot
+    100050: Indx01_L
+    100052: Indx01_R
+    100054: Indx02_L
+    100056: Indx02_R
+    100058: Indx03_L
+    100060: Indx03_R
+    100062: Indx04_L
+    100064: Indx04_R
+    100066: Jaw
+    100068: Knee_L
+    100070: Knee_R
+    100072: L_SHOULDER
+    100074: Labels
+    100076: LowerBody
+    100078: Mid01_L
+    100080: Mid01_R
+    100082: Mid02_L
+    100084: Mid02_R
+    100086: Mid03_l
+    100088: Mid03_l 1
+    100090: Mid04_L
+    100092: Mid04_R
+    100094: Neck
+    100096: Nose
+    100098: Pinky01_L
+    100100: Pinky01_R
+    100102: Pinky02_L
+    100104: Pinky02_R
+    100106: Pinky03_L
+    100108: Pinky03_R
+    100110: Pinky04_L
+    100112: Pinky04_R
+    100114: Should_L
+    100116: Should_R
+    100118: Spine01
+    100120: Spine02
+    100122: Spine03
+    100124: Spine_Root
+    100126: Teeth1
+    100128: Text
+    100130: Thumb01_L
+    100132: Thumb01_R
+    100134: Thumb02_L
+    100136: Thumb02_R
+    100138: Thumb03_L
+    100140: Thumb03_R
+    100142: Thumb04_L
+    100144: Thumb04_R
+    100146: Toe_L
+    100148: Toe_R
+    100150: Torso
+    100152: Wrist_L
+    100154: Wrist_R
+    400000: Belly01
+    400002: Belly02
+    400004: Belly03
+    400006: Clavicle_L
+    400008: Clavicle_R
+    400010: Collar
+    400012: Dummy001
+    400014: Elbow_L
+    400016: Elbow_R
+    400018: Eye Right
+    400020: Eye Right 1
+    400022: Eyes
+    400024: Foot_L
+    400026: Foot_R
+    400028: Foot_Tip_L
+    400030: Foot_Tip_R
+    400032: //RootNode
+    400034: Head
+    400036: Head 1
+    400038: Hip_L
+    400040: Hip_R
+    400042: ikHandle_LAnkle
+    400044: ikHandle_LFoot
+    400046: ikHandle_RAnkle
+    400048: ikHandle_RFoot
+    400050: Indx01_L
+    400052: Indx01_R
+    400054: Indx02_L
+    400056: Indx02_R
+    400058: Indx03_L
+    400060: Indx03_R
+    400062: Indx04_L
+    400064: Indx04_R
+    400066: Jaw
+    400068: Knee_L
+    400070: Knee_R
+    400072: L_SHOULDER
+    400074: Labels
+    400076: LowerBody
+    400078: Mid01_L
+    400080: Mid01_R
+    400082: Mid02_L
+    400084: Mid02_R
+    400086: Mid03_l
+    400088: Mid03_l 1
+    400090: Mid04_L
+    400092: Mid04_R
+    400094: Neck
+    400096: Nose
+    400098: Pinky01_L
+    400100: Pinky01_R
+    400102: Pinky02_L
+    400104: Pinky02_R
+    400106: Pinky03_L
+    400108: Pinky03_R
+    400110: Pinky04_L
+    400112: Pinky04_R
+    400114: Should_L
+    400116: Should_R
+    400118: Spine01
+    400120: Spine02
+    400122: Spine03
+    400124: Spine_Root
+    400126: Teeth1
+    400128: Text
+    400130: Thumb01_L
+    400132: Thumb01_R
+    400134: Thumb02_L
+    400136: Thumb02_R
+    400138: Thumb03_L
+    400140: Thumb03_R
+    400142: Thumb04_L
+    400144: Thumb04_R
+    400146: Toe_L
+    400148: Toe_R
+    400150: Torso
+    400152: Wrist_L
+    400154: Wrist_R
+    2300000: Eye Right
+    2300002: Eye Right 1
+    3300000: Eye Right
+    3300002: Eye Right 1
+    4300000: Torso
+    4300002: LowerBody
+    4300004: Eye Right
+    4300006: Eye Right
+    4300008: Head
+    9500000: //RootNode
+    13700000: Head
+    13700002: LowerBody
+    13700004: Torso
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
