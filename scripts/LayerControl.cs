@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BasicControl : MonoBehaviour
+public class LayerControl : MonoBehaviour
 {
 
 		public Animator animator;
@@ -30,8 +30,18 @@ public class BasicControl : MonoBehaviour
 						h = Input.GetAxis ("Horizontal");
 						v = Input.GetAxis ("Vertical");
 						j = Input.GetAxis ("Jump");
-						if (Input.GetMouseButtonDown (1)) {
+						if (Input.GetMouseButtonDown (0)) {
 								StartCoroutine (processWinded ());
+						}
+
+						if (Input.GetKeyDown (KeyCode.O)) {
+								animator.SetBool ("Wave", !animator.GetBool ("Wave"));
+						}
+						if (Input.GetKeyDown (KeyCode.T)) {
+								animator.SetBool ("Talk", !animator.GetBool ("Talk"));
+						}
+						if (Input.GetKeyDown (KeyCode.N)) {
+								animator.SetBool ("Nod", !animator.GetBool ("Nod"));
 						}
 				}
 		}
@@ -39,22 +49,19 @@ public class BasicControl : MonoBehaviour
 		void FixedUpdate ()
 		{
 				animator.SetFloat ("VInput", v);
-				if (windedState == 0 && ground) {
+				if (windedState == 0) {
 						transform.Rotate (new Vector3 (0, h * Time.deltaTime * rotateSpeed, 0));
 				}
 				animator.SetFloat ("HInput", h);
-				
-				AnimatorStateInfo asi = animator.GetCurrentAnimatorStateInfo (0);
+				processJump ();
+		}
 
+		void processJump ()
+		{	
 				if (j == 1 && ground) {
 						animator.SetTrigger ("Jump");
-						ground = false;		
-
-						if (animator.GetInteger("RaceState")==3) {
-								rigidbody.AddForce (Vector3.up * 500);
-						}
+						ground = false;
 				}
-
 		}
 
 		void OnCollisionEnter (Collision collision)
