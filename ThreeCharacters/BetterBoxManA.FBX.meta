@@ -807,8 +807,8 @@ ModelImporter:
       limit:
         min: {x: 0, y: -25, z: -20}
         max: {x: 0, y: 25, z: 20}
-        value: {x: .0197999496, y: 0, z: .0098999748}
-        length: .0247499458
+        value: {x: .0197999533, y: 0, z: .00989997666}
+        length: .0247499496
         modified: 1
     - boneName: Base HumanLDigit12
       humanName: Left Thumb Intermediate
@@ -927,8 +927,8 @@ ModelImporter:
       limit:
         min: {x: 0, y: -25, z: -20}
         max: {x: 0, y: 25, z: 20}
-        value: {x: .0198000483, y: 0, z: .00990002416}
-        length: .0247500688
+        value: {x: .0198000427, y: 0, z: .00990002137}
+        length: .0247500632
         modified: 1
     - boneName: Base HumanRDigit12
       humanName: Right Thumb Intermediate
@@ -1065,7 +1065,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLFoot
       position: {x: -.515453398, y: 6.55651089e-09, z: 0}
-      rotation: {x: -.0167928562, y: .0148463417, z: -.70267266, w: .711160004}
+      rotation: {x: -.016792858, y: .0148463435, z: -.70267272, w: .711160064}
       scale: {x: 1.00000012, y: .999999702, z: 1}
       transformModified: 1
     - name: Base HumanLDigit11
@@ -1090,7 +1090,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanRFoot
       position: {x: -.515453398, y: 6.55651089e-09, z: -1.31130218e-08}
-      rotation: {x: .0168654732, y: -.0148883192, z: -.70267123, w: .711158812}
+      rotation: {x: .0168654751, y: -.014888321, z: -.702671289, w: .711158872}
       scale: {x: 1.00000036, y: .999999642, z: 1}
       transformModified: 1
     - name: Base HumanRDigit11
@@ -1100,7 +1100,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanRIKTarget
       position: {x: -.165012226, y: .102479495, z: .0496648625}
-      rotation: {x: -.222051427, y: .908408344, z: .354061276, w: .0113028791}
+      rotation: {x: -.222051457, y: .908408463, z: .354061306, w: .01130288}
       scale: {x: .999999166, y: .999999523, z: 1.00000095}
       transformModified: 1
     - name: Base HumanSpine1
@@ -1250,7 +1250,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanRPalm
       position: {x: -.304317683, y: 0, z: 0}
-      rotation: {x: .394587874, y: -.0145536559, z: .0563503541, w: .917013109}
+      rotation: {x: .394587934, y: -.0145536577, z: .0563503616, w: .917013228}
       scale: {x: 1, y: 1.00000036, z: .999999642}
       transformModified: 1
     - name: Base HumanRDigit11 1
@@ -1295,7 +1295,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanRDigit33
       position: {x: -.0247499887, y: 2.62260436e-08, z: 0}
-      rotation: {x: 3.15395319e-08, y: -1.07461826e-08, z: .13485083, w: .990865767}
+      rotation: {x: 3.15395354e-08, y: -1.07461835e-08, z: .134850845, w: .990865886}
       scale: {x: .99999994, y: 1, z: 1}
       transformModified: 1
     - name: Base HumanRDigit41

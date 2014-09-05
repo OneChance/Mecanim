@@ -476,16 +476,16 @@ ModelImporter:
       limit:
         min: {x: 0, y: -30.0000019, z: -50}
         max: {x: 0, y: 30.0000019, z: 50}
-        value: {x: .0419905409, y: 0, z: .0209952705}
-        length: .0524881929
+        value: {x: .0419905894, y: 0, z: .0209952947}
+        length: .0524882525
         modified: 1
     - boneName: Foot Right
       humanName: RightFoot
       limit:
         min: {x: 0, y: -30.0000019, z: -50}
         max: {x: 0, y: 30.0000019, z: 50}
-        value: {x: .0419905409, y: 0, z: .0209952705}
-        length: .0524881929
+        value: {x: .0419905894, y: 0, z: .0209952947}
+        length: .0524882525
         modified: 1
     - boneName: Spine
       humanName: Spine
@@ -508,16 +508,16 @@ ModelImporter:
       limit:
         min: {x: -40, y: -40, z: -40}
         max: {x: 40, y: 40, z: 40}
-        value: {x: .0248802453, y: 0, z: .0124401227}
-        length: .031100316
+        value: {x: .0248801988, y: 0, z: .0124400994}
+        length: .0311002582
         modified: 1
     - boneName: Head
       humanName: Head
       limit:
         min: {x: -40, y: -40, z: -40}
         max: {x: 40, y: 40, z: 40}
-        value: {x: .0248802453, y: 0, z: .0124401227}
-        length: .031100316
+        value: {x: .0248801988, y: 0, z: .0124400994}
+        length: .0311002582
         modified: 1
     - boneName: Shoulder Left
       humanName: LeftShoulder
@@ -548,8 +548,8 @@ ModelImporter:
       limit:
         min: {x: -90, y: -100, z: -60.0000038}
         max: {x: 90, y: 100, z: 100}
-        value: {x: .182482824, y: 0, z: .0912414119}
-        length: .228103608
+        value: {x: .182482809, y: 0, z: .0912414044}
+        length: .228103578
         modified: 1
     - boneName: Lower Arm Left
       humanName: LeftLowerArm
@@ -564,8 +564,8 @@ ModelImporter:
       limit:
         min: {x: -90, y: 0, z: -80}
         max: {x: 90, y: 0, z: 80}
-        value: {x: .134759411, y: 0, z: .0673797056}
-        length: .168449327
+        value: {x: .134759426, y: 0, z: .0673797131}
+        length: .168449357
         modified: 1
     - boneName: Hand Left
       humanName: LeftHand
@@ -580,24 +580,24 @@ ModelImporter:
       limit:
         min: {x: 0, y: -40, z: -80}
         max: {x: 0, y: 40, z: 80}
-        value: {x: .0673797056, y: 0, z: .0336898528}
-        length: .0842246637
+        value: {x: .0673797131, y: 0, z: .0336898565}
+        length: .0842246786
         modified: 1
     - boneName: Toe Left
       humanName: LeftToes
       limit:
         min: {x: 0, y: 0, z: -50}
         max: {x: 0, y: 0, z: 50}
-        value: {x: .0208086651, y: 0, z: .0104043325}
-        length: .0260108393
+        value: {x: .0208086632, y: 0, z: .0104043316}
+        length: .0260108374
         modified: 1
     - boneName: Toe Right
       humanName: RightToes
       limit:
         min: {x: 0, y: 0, z: -50}
         max: {x: 0, y: 0, z: 50}
-        value: {x: .0208086651, y: 0, z: .0104043325}
-        length: .0260108393
+        value: {x: .0208086632, y: 0, z: .0104043316}
+        length: .0260108374
         modified: 1
     - boneName: Eye Left
       humanName: LeftEye
@@ -637,39 +637,39 @@ ModelImporter:
         min: {x: 0, y: 0, z: -40}
         max: {x: 0, y: 0, z: 35}
         value: {x: .010799977, y: 0, z: .0053999885}
-        length: .0134999761
+        length: .0134999752
         modified: 1
     - boneName: Base HumanLDigit061
       humanName: Left Thumb Distal
       limit:
         min: {x: 0, y: 0, z: -40}
         max: {x: 0, y: 0, z: 35}
-        value: {x: .00809998251, y: 0, z: .00404999126}
-        length: .0101249823
+        value: {x: .00809998158, y: 0, z: .00404999079}
+        length: .0101249814
         modified: 1
     - boneName: Base HumanLDigit056
       humanName: Left Index Proximal
       limit:
         min: {x: 0, y: -20, z: -50}
         max: {x: 0, y: 20, z: 50}
-        value: {x: .0179999173, y: 0, z: .00899995863}
-        length: .0224999059
+        value: {x: .0179999154, y: 0, z: .0089999577}
+        length: .022499904
         modified: 1
     - boneName: Base HumanLDigit057
       humanName: Left Index Intermediate
       limit:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
-        value: {x: .0180000607, y: 0, z: .00900003035}
-        length: .0225000847
+        value: {x: .0180000588, y: 0, z: .00900002941}
+        length: .0225000829
         modified: 1
     - boneName: Base HumanLDigit058
       humanName: Left Index Distal
       limit:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
-        value: {x: .0135000478, y: 0, z: .00675002392}
-        length: .016875064
+        value: {x: .013500046, y: 0, z: .00675002299}
+        length: .0168750621
         modified: 1
     - boneName: Base HumanLDigit062
       humanName: Left Middle Proximal
@@ -684,8 +684,8 @@ ModelImporter:
       limit:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
-        value: {x: .0108000338, y: 0, z: .0054000169}
-        length: .0135000469
+        value: {x: .0108000329, y: 0, z: .00540001644}
+        length: .013500046
         modified: 1
     - boneName: Base HumanLDigit064
       humanName: Left Middle Distal
@@ -693,7 +693,7 @@ ModelImporter:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
         value: {x: .00810002442, y: 0, z: .00405001221}
-        length: .0101250354
+        length: .0101250345
         modified: 1
     - boneName: Base HumanLDigit065
       humanName: Left Ring Proximal
@@ -732,24 +732,24 @@ ModelImporter:
       limit:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
-        value: {x: .0106377341, y: 0, z: .00531886704}
-        length: .0132971723
+        value: {x: .0106377332, y: 0, z: .00531886658}
+        length: .0132971713
         modified: 1
     - boneName: Base HumanLDigit069
       humanName: Left Little Distal
       limit:
         min: {x: 0, y: 0, z: -45}
         max: {x: 0, y: 0, z: 45}
-        value: {x: .00797830056, y: 0, z: .00398915028}
-        length: .00997287966
+        value: {x: .00797829963, y: 0, z: .00398914982}
+        length: .00997287873
         modified: 1
     - boneName: Base HumanLDigit074
       humanName: Right Thumb Proximal
       limit:
         min: {x: 0, y: -25, z: -20}
         max: {x: 0, y: 25, z: 20}
-        value: {x: .0179999862, y: 0, z: .00899999309}
-        length: .0224999916
+        value: {x: .017999988, y: 0, z: .00899999402}
+        length: .0224999934
         modified: 1
     - boneName: Base HumanLDigit075
       humanName: Right Thumb Intermediate
@@ -797,7 +797,7 @@ ModelImporter:
         min: {x: 0, y: -7.50000048, z: -50}
         max: {x: 0, y: 7.50000048, z: 50}
         value: {x: .0179999527, y: 0, z: .00899997633}
-        length: .0224999487
+        length: .0224999506
         modified: 1
     - boneName: Base HumanLDigit070
       humanName: Right Middle Intermediate
@@ -844,8 +844,8 @@ ModelImporter:
       limit:
         min: {x: 0, y: -20, z: -50}
         max: {x: 0, y: 20, z: 50}
-        value: {x: .0180000085, y: 0, z: .00900000427}
-        length: .0225000195
+        value: {x: .0180000104, y: 0, z: .0090000052}
+        length: .0225000214
         modified: 1
     - boneName: Base HumanLDigit071
       humanName: Right Little Intermediate
@@ -871,7 +871,7 @@ ModelImporter:
       transformModified: 1
     - name: Robot
       position: {x: .0016798263, y: 0, z: -.00370517839}
-      rotation: {x: -.707106709, y: 0, z: -0, w: .707106709}
+      rotation: {x: -.707106769, y: 0, z: -0, w: .707106769}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Hips
@@ -896,7 +896,7 @@ ModelImporter:
       transformModified: 1
     - name: Head
       position: {x: -.000297774823, y: -.00986684579, z: .02949211}
-      rotation: {x: .707106769, y: 0, z: -0, w: .70710665}
+      rotation: {x: .707106829, y: 0, z: -0, w: .707106709}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Eye Left
@@ -921,17 +921,17 @@ ModelImporter:
       transformModified: 1
     - name: Upper Arm Left
       position: {x: .00319530489, y: .00249791611, z: .000740489922}
-      rotation: {x: .537478387, y: .549451351, z: -.583102524, w: -.263080448}
+      rotation: {x: .537478447, y: .549451411, z: -.583102584, w: -.263080478}
       scale: {x: .851679862, y: .851679862, z: .851679862}
       transformModified: 1
     - name: Lower Arm Left
       position: {x: -2.14576712e-08, y: -2.86102289e-08, z: -.267586142}
-      rotation: {x: -.0140392594, y: .0175552052, z: .0126847411, w: .99966675}
+      rotation: {x: -.0140392603, y: .0175552052, z: .012684742, w: .99966681}
       scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
       transformModified: 1
     - name: Hand Left
       position: {x: -.0025140238, y: -.00131446833, z: -.197778508}
-      rotation: {x: .0072823423, y: .113654532, z: -.803443193, w: .584387183}
+      rotation: {x: .00728234369, y: .113654554, z: -.803443372, w: .584387243}
       scale: {x: 1.17414975, y: 1.17415011, z: 1.17414999}
       transformModified: 1
     - name: Base HumanLDigit056
@@ -941,22 +941,22 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit057
       position: {x: -.0224999133, y: 4.29153424e-08, z: 0}
-      rotation: {x: 3.49099736e-08, y: -3.19379467e-07, z: .0403893068, w: .999183893}
+      rotation: {x: 3.49099736e-08, y: -3.19379467e-07, z: .0403893068, w: .999183953}
       scale: {x: 1.00000012, y: 1, z: .999999881}
       transformModified: 1
     - name: Base HumanLDigit058
       position: {x: -.0225000847, y: -2.86102289e-08, z: 0}
-      rotation: {x: 3.11991727e-07, y: 6.85957815e-08, z: .214735165, w: .976672173}
+      rotation: {x: 3.11991727e-07, y: 6.85957815e-08, z: .21473518, w: .976672232}
       scale: {x: 1, y: 1, z: 1}
       transformModified: 1
     - name: Base HumanLDigit059
       position: {x: .0291982982, y: -.000672483409, z: -.0359061807}
-      rotation: {x: .648343444, y: .278023809, z: .662814796, w: .251057327}
+      rotation: {x: .648343503, y: .278023839, z: .662814856, w: .251057357}
       scale: {x: 1.00000024, y: 1.00000024, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit060
       position: {x: -.0225000288, y: -2.86102289e-08, z: -3.57627847e-08}
-      rotation: {x: 6.03496233e-07, y: 9.48752017e-07, z: .0381583869, w: .999271572}
+      rotation: {x: 6.03496233e-07, y: 9.48752074e-07, z: .0381583869, w: .999271631}
       scale: {x: 1.00000036, y: .99999994, z: .999999821}
       transformModified: 1
     - name: Base HumanLDigit061
@@ -966,17 +966,17 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit062
       position: {x: .010009761, y: -.00489515299, z: -.0377800949}
-      rotation: {x: .642476439, y: .0181746781, z: .765843451, w: -.0194243919}
+      rotation: {x: .642476439, y: .0181746781, z: .765843511, w: -.0194243919}
       scale: {x: 1.00000024, y: 1.00000036, z: .999999881}
       transformModified: 1
     - name: Base HumanLDigit063
       position: {x: -.0224999711, y: -5.72204577e-08, z: -1.07288358e-07}
-      rotation: {x: -5.4506836e-07, y: -4.0334362e-06, z: .0368261598, w: .99932158}
+      rotation: {x: -5.4506836e-07, y: -4.0334362e-06, z: .0368261598, w: .99932164}
       scale: {x: .999999881, y: 1.00000012, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit064
       position: {x: -.0135000516, y: 0, z: 2.86102289e-08}
-      rotation: {x: 2.78133228e-07, y: -1.65167833e-07, z: .134850815, w: .990865767}
+      rotation: {x: 2.78133257e-07, y: -1.65167847e-07, z: .13485083, w: .990865886}
       scale: {x: .99999994, y: 1, z: .99999994}
       transformModified: 1
     - name: Base HumanLDigit065
@@ -991,12 +991,12 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit066
       position: {x: -.013499965, y: -7.15255695e-08, z: -8.58306848e-08}
-      rotation: {x: -5.37432584e-07, y: 1.45588203e-07, z: .162464976, w: .986714244}
+      rotation: {x: -5.37432584e-07, y: 1.45588203e-07, z: .162464976, w: .986714303}
       scale: {x: 1.00000024, y: 1, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit067
       position: {x: -.0277136266, y: -.00304604531, z: -.0379044339}
-      rotation: {x: .636098802, y: .0138820112, z: .771265209, w: -.0183133669}
+      rotation: {x: .636098802, y: .0138820121, z: .771265268, w: -.0183133669}
       scale: {x: 1.00000024, y: 1.00000036, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit068
@@ -1006,7 +1006,7 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit069
       position: {x: -.0132969469, y: 7.83991782e-05, z: 4.29153424e-08}
-      rotation: {x: -2.36835334e-07, y: 1.93805718e-07, z: .183094308, w: .983095288}
+      rotation: {x: -2.36835348e-07, y: 1.93805747e-07, z: .183094308, w: .983095348}
       scale: {x: 1.01935017, y: 1.01935005, z: 1.01935017}
       transformModified: 1
     - name: Shoulder Right
@@ -1061,17 +1061,17 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit077
       position: {x: .010009761, y: -.00489515299, z: -.0377800651}
-      rotation: {x: .642477334, y: .0181734469, z: .765842736, w: -.0194254294}
+      rotation: {x: .642477334, y: .0181734469, z: .765842855, w: -.0194254294}
       scale: {x: 1.00000012, y: 1.0000006, z: 1}
       transformModified: 1
     - name: Base HumanLDigit070
       position: {x: -.0224999711, y: -2.86102289e-08, z: -1.001358e-07}
-      rotation: {x: -2.9296163e-07, y: -7.93393667e-07, z: .0368239321, w: .99932164}
+      rotation: {x: -2.9296163e-07, y: -7.93393724e-07, z: .0368239321, w: .999321699}
       scale: {x: .999999881, y: 1, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit079
       position: {x: -.0135000516, y: 0, z: 2.14576712e-08}
-      rotation: {x: 2.91544012e-07, y: -2.08458232e-07, z: .134850815, w: .990865767}
+      rotation: {x: 2.9154404e-07, y: -2.0845826e-07, z: .13485083, w: .990865886}
       scale: {x: 1, y: 1.00000012, z: 1.00000012}
       transformModified: 1
     - name: Base HumanLDigit080
@@ -1091,17 +1091,17 @@ ModelImporter:
       transformModified: 1
     - name: Base HumanLDigit083
       position: {x: .0243533049, y: .00587688433, z: -.0049774074}
-      rotation: {x: .319693923, y: .683379352, z: .447551906, w: -.480089098}
+      rotation: {x: .319693923, y: .683379352, z: .447551936, w: -.480089128}
       scale: {x: 1.00000048, y: 1.00000036, z: 1.00000072}
       transformModified: 1
     - name: Base HumanLDigit082
       position: {x: -.0224998854, y: 4.29153424e-08, z: 1.43051144e-08}
-      rotation: {x: 4.89320797e-08, y: 2.12113051e-07, z: .0403905548, w: .999183834}
+      rotation: {x: 4.89320868e-08, y: 2.12113079e-07, z: .0403905585, w: .999183953}
       scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
       transformModified: 1
     - name: Base HumanLDigit084
       position: {x: -.0225000847, y: -4.29153424e-08, z: 0}
-      rotation: {x: 2.85174764e-07, y: 4.74426294e-08, z: .214735165, w: .976672173}
+      rotation: {x: 2.85174764e-07, y: 4.74426329e-08, z: .21473518, w: .976672232}
       scale: {x: .99999994, y: 1.00000024, z: 1}
       transformModified: 1
     - name: Upper Leg Left

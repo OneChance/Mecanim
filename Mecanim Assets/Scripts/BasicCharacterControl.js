@@ -44,10 +44,10 @@ function FixedUpdate () {
    // Set the V Input parameter to the V axis value
    animator.SetFloat ("V Input", v);
    
-if (windedState == 0) {  
-	// rotate the character according to input and rotation speed
-	transform.Rotate (new Vector3(0,h*Time.deltaTime*rotSpeed,0)); 
-}
+	if (windedState == 0 && grounded) {  
+		// rotate the character according to input and rotation speed
+		transform.Rotate (new Vector3(0,h*Time.deltaTime*rotSpeed,0)); 
+	}
 
    // Set the Turning parameter to the H axis value
 	animator.SetFloat ("Turning", h);  
@@ -59,7 +59,12 @@ if (windedState == 0) {
 	     if (canJump && grounded && j ==1 ) rigidbody.AddForce (Vector3.up * 200 );
 	     ProcessJump();	
 	}
-	
+	else if (animator.GetInteger ("Race State")== 3 && !animator.GetBool ("Turning")) {  
+	     // Set the jumping parameter to the j value
+	     if (canJump && grounded && j ==1 ) rigidbody.AddForce (Vector3.up * 500 );
+	     // trigger the jump
+	     ProcessJump();	
+	}	
 } 
 
   function ProcessJump () {
